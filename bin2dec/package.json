@@ -1,0 +1,28 @@
+{
+  "name": "bin2dec",
+  "version": "1.0.0",
+  "description": "Repo dos Coding Dojo do Cotabox",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test:unit": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cotabox/coding-dojo.git"
+  },
+  "keywords": [
+    "coding-dojo;javascript;tdd;dev"
+  ],
+  "author": "DreamTeam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cotabox/coding-dojo/issues"
+  },
+  "homepage": "https://github.com/Cotabox/coding-dojo#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
